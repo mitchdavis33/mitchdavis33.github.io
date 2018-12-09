@@ -11,12 +11,19 @@ nav {
 }
 
 nav ul {
-  margin: 0 0 0 6px
+  margin: 0 0 0 6px;
   display: inline;
 }
 
 nav li {
   display: inline-block;
-  margin-right: 20px
-  padding: 20px
+  margin-right: 20px;
+  padding: 20px;
+}
+
+li a{
+  display: flex;
+  padding: 30px;
+  margin-top: 10px;
+
 }
