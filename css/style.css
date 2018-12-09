@@ -11,28 +11,18 @@ nav {
 }
 
 nav ul {
-  margin: 0 0 0 6px;
-  display: inline;
 }
 
 nav li {
   display: inline-block;
-  margin-right: 20px;
-  padding: 20px;
+  margin-right: 5px;
+  padding: 10px;
+  border-color: white;
 }
 
 li a{
-  display: flex;
-  padding: 30px;
-  margin-top: 10px;
+  padding: 5px;
+  margin-top: 20px;
   background-color: red;
-  border-color: black 4px;
-}
-
-li a:hover{
-  background-color: blue;
-}
-
-li a:active{
-color:green;
+  border-color: white 4px;
 }
