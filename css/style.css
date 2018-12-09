@@ -5,29 +5,45 @@ body {
 
 }
 
+header{
+  margin-top: 30px;
+}
+
+
 nav {
-  display: inline;
-  float: right;
+background-color: red;
 }
 
 nav ul {
-  margin:0 0 0 0 10px;
-  padding-left:0;
-  padding-right: 10px;
-  list-style: none;
-  display: inline;
+background-color: red;
 }
 
 nav li {
-  display: inline-block;
-  margin-right: 5px;
-  padding: 50px;
-  border-color: white;
+  position: fixed;
+  width: 100px;
+  top: 100px;
+  left: 0;
+  margin-left: 100;
+  padding-left: 100;
 }
 
-li a{
-  padding: 5px;
-  margin-top: 20px;
-  background-color: red;
-  border-color: white 4px;
+
+img {
+  padding-left:400px;
+}
+
+
+a {
+  font-size: 25px;
+  font-color: white;
+  padding: 10px;
+  margin-left: 200px;
+  display:inline-block;
+}
+
+footer{
+  padding-left: 700px;
+}
+
+
 }
