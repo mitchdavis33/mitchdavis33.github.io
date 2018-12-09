@@ -11,20 +11,12 @@ header{
 
 
 nav {
-background-color: red;
+background-color: blue;
 }
 
 nav ul {
+color: white;
 background-color: red;
-}
-
-nav li {
-  position: fixed;
-  width: 100px;
-  top: 100px;
-  left: 0;
-  margin-left: 100;
-  padding-left: 100;
 }
 
 
@@ -39,6 +31,9 @@ a {
   padding: 10px;
   margin-left: 200px;
   display:inline-block;
+}
+
+
 }
 
 footer{
