@@ -2,21 +2,16 @@ body {
   background-color: black;
   font-family: sans-serif;
   color: white;
-
 }
+
+head{
+  background-color: red;
+}
+
 
 header{
   margin-top: 30px;
-}
-
-
-nav {
-background-color: blue;
-}
-
-nav ul {
-color: white;
-background-color: red;
+  background-color: red;
 }
 
 
@@ -24,13 +19,11 @@ img {
   padding-left:400px;
 }
 
-
 a {
   font-size: 25px;
   font-color: white;
   padding: 10px;
   margin-left: 200px;
-  display:inline-block;
 }
 
 
