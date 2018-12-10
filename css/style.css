@@ -4,19 +4,20 @@ body {
   color: white;
 }
 
-head{
-  background-color: red;
+nav {
+  background-color: black;
 }
 
 
 header{
   margin-top: 30px;
-  background-color: red;
+  bckground-color: black;
 }
 
 
-img {
+img  {
   padding-left:400px;
+  background-color: black;
 }
 
 a {
@@ -28,8 +29,9 @@ a {
 }
 
 article {
-  background-color: red;
+  background-color: black;
   margin-right: 10px;
+
 }
 
 
