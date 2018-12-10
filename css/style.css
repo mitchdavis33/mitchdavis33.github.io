@@ -22,12 +22,16 @@ img {
 a {
   font-size: 25px;
   font-color: white;
+  background-color: white;
   padding: 10px;
   margin-left: 200px;
 }
 
-
+article {
+  background-color: red;
+  margin-right: 10px;
 }
+
 
 footer{
   padding-left: 700px;
